@@ -29,3 +29,4 @@ Important Notes
     This tool is designed to be used on Windows machines only.
     This tool requires administrative privileges to run.
     This tool is provided "as is" and comes with no warranty or guarantee. The creator of this tool is not responsible for any damage or harm that may result from using this tool.
+all glory and prayer fowarded to @Hak5
